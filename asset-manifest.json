@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dashboard-grm-pea/static/css/main.e6c13ad2.css",
+    "main.js": "/dashboard-grm-pea/static/js/main.01b910be.js",
+    "static/js/453.d81c92df.chunk.js": "/dashboard-grm-pea/static/js/453.d81c92df.chunk.js",
+    "index.html": "/dashboard-grm-pea/index.html",
+    "main.e6c13ad2.css.map": "/dashboard-grm-pea/static/css/main.e6c13ad2.css.map",
+    "main.01b910be.js.map": "/dashboard-grm-pea/static/js/main.01b910be.js.map",
+    "453.d81c92df.chunk.js.map": "/dashboard-grm-pea/static/js/453.d81c92df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.01b910be.js"
+  ]
+}
